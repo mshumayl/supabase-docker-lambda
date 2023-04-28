@@ -1,0 +1,41 @@
+# Compiled object files
+*.o
+
+# Compiled dynamic libraries
+*.so
+
+# Compiled static libraries
+*.a
+
+# Executables
+*.exe
+*.out
+
+# Build directories
+build/
+dist/
+target/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Editor files
+*~
+.project
+.settings/
+.idea/
+*.sublime*
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+.env.test
+.env.test.local
+.env.production
+.env.production.local
